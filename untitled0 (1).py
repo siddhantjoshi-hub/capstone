@@ -11,7 +11,7 @@ import streamlit as st
 import subprocess
 
 # Load the uploaded script file
-SCRIPT_PATH = "C:/Users/sidjo/Downloads/untitled0.py"
+SCRIPT_PATH = "untitled0.py"
 
 def read_script():
     """Reads the script file and returns its content."""
