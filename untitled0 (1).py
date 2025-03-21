@@ -11,7 +11,7 @@ import streamlit as st
 import subprocess
 
 # Load the uploaded script file
-SCRIPT_PATH = "untitled0.py"
+SCRIPT_PATH = "detectionofalzheimerwithml.py"
 
 def read_script():
     """Reads the script file and returns its content."""
